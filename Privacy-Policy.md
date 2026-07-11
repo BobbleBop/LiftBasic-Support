@@ -1,5 +1,5 @@
 LiftBasic — Privacy Policy
-Last updated: 6 June 2026
+Last updated: 11 July 2026
 
 LiftBasic app does not collect, store, or transmit any personal data to external servers.
 All information you enter stays securely on your device and, if enabled, in your private iCloud storage through Apple’s built‑in syncing.
@@ -22,7 +22,23 @@ All data you enter, such as workouts, body weight, hydration logs, and settings,
 
 If you enable iCloud syncing, Apple securely syncs your data between your devices using your Apple ID. LiftBasic does not have access to this data.
 
-2. How Your Data Is Used
+2. HealthKit Data
+
+LiftBasic uses Apple HealthKit only to read your daily step count.
+
+Steps are read from HealthKit to display your daily activity inside the app.
+
+Body weight and water intake are not read from HealthKit — they are entered manually by the user.
+
+LiftBasic does not write any data to HealthKit.
+
+LiftBasic does not upload, transmit, or share HealthKit data.
+
+All HealthKit data remains on your device and is handled entirely by Apple’s secure frameworks.
+
+You may disable HealthKit access at any time in the Apple Health app.
+
+3. How Your Data Is Used
 
 Your data is used only within the app to provide features such as:
 
@@ -32,11 +48,13 @@ Body weight charts
 
 Hydration tracking
 
-Daily summaries
+Daily step summaries
+
+Personal records and progress insights
 
 LiftBasic does not process your data for analytics, marketing, or profiling.
 
-3. Data Storage
+4. Data Storage
 
 Your data is stored in one of two places:
 
@@ -50,7 +68,7 @@ If iCloud is enabled on your device, Apple may sync your data across your device
 
 LiftBasic does not access, collect, or transmit this data.
 
-4. Data Sharing
+5. Data Sharing
 
 LiftBasic does not share your data with:
 
@@ -64,29 +82,29 @@ External servers
 
 Your data never leaves your control.
 
-5. Permissions
+6. Permissions
 
 LiftBasic may request access to:
 
-HealthKit (optional) — to read or write body weight or hydration data if you choose to enable it.
+HealthKit (optional) — to read your daily step count if you choose to enable it.
 
 HealthKit data is handled entirely by Apple’s secure frameworks.
 
 LiftBasic does not store or transmit HealthKit data outside your device.
 
-6. Children’s Privacy
+7. Children’s Privacy
 
 LiftBasic does not collect personal information from anyone, including children under 13.
 
 The app is safe for all ages.
 
-7. Changes to This Policy
+8. Changes to This Policy
 
 If this policy is updated, the new version will be posted on the support page.
 
 You are encouraged to review it periodically.
 
-8. Contact
+9. Contact
 
 If you have questions or need support, you can contact:
 
