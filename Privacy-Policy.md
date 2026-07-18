@@ -72,15 +72,17 @@ LiftBasic does not access, collect, or transmit this data.
 
 LiftBasic does not share your data with:
 
-Third parties
+- Third parties
 
-Advertisers
+- Advertisers
 
-Analytics providers
+- Analytics providers
 
-External servers
+- External servers
 
 Your data never leaves your control.
+
+LiftBasic allows you to export your data locally to files you control. Exported data is never transmitted by the app.
 
 6. Permissions
 
