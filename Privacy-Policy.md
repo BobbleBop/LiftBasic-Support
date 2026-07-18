@@ -1,5 +1,5 @@
 LiftBasic — Privacy Policy
-Last updated: 11 July 2026
+Last updated: 18 July 2026
 
 LiftBasic app does not collect, store, or transmit any personal data to external servers.
 All information you enter stays securely on your device and, if enabled, in your private iCloud storage through Apple’s built‑in syncing.
