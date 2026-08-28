@@ -1,5 +1,5 @@
 LiftBasic — Privacy Policy
-Last updated: 18 July 2026
+Last updated: 28 August 2026
 
 LiftBasic does not collect personal information. The app avoids creating user accounts, tracking across platforms, sending data to external servers, or utilising analytics, advertising, or third-party SDKs.
 
@@ -54,10 +54,6 @@ Personal records and progress insights
 LiftBasic does not process your data for analytics, marketing, or profiling.
 
 4. Data Storage
-
-Your data is stored in one of two places:
-
-On your device (default)
 
 Your data is stored locally on your device using Apple's secure storage technologies.
 
