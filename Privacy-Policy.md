@@ -1,8 +1,9 @@
 LiftBasic — Privacy Policy
 Last updated: 18 July 2026
 
-LiftBasic app does not collect, store, or transmit any personal data to external servers.
-All information you enter stays securely on your device and, if enabled, in your private iCloud storage through Apple’s built‑in syncing.
+LiftBasic does not collect personal information. The app avoids creating user accounts, tracking across platforms, sending data to external servers, or utilising analytics, advertising, or third-party SDKs.
+
+All user-entered data (including workouts, body weight, hydration logs, and settings) remains stored locally on your device using Apple's secure on-device storage. LiftBasic does not sync your data to iCloud or any other cloud service.
 
 1. Information We Collect
 
@@ -19,8 +20,6 @@ Send data to external servers
 Use analytics, advertising, or third‑party SDKs
 
 All data you enter, such as workouts, body weight, hydration logs, and settings, is stored locally on your device.
-
-If you enable iCloud syncing, Apple securely syncs your data between your devices using your Apple ID. LiftBasic does not have access to this data.
 
 2. HealthKit Data
 
@@ -60,13 +59,11 @@ Your data is stored in one of two places:
 
 On your device (default)
 
-All information is saved locally using Apple’s secure storage technologies.
+Your data is stored locally on your device using Apple's secure storage technologies.
 
-In your private iCloud (optional)
+LiftBasic does not use iCloud or any other cloud storage.
 
-If iCloud is enabled on your device, Apple may sync your data across your devices.
-
-LiftBasic does not access, collect, or transmit this data.
+Your data stays on your device unless you manually export it.
 
 5. Data Sharing
 
